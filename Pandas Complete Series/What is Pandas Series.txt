@@ -1,0 +1,3 @@
+A Pandas Series is a one-dimensional labeled array capable of holding data of any data type (integer, float, string, etc.).
+It's similar to a one-dimensional NumPy array but with additional indexing capabilities. The main components of a Pandas
+Series are the data values and the associated index labels.
