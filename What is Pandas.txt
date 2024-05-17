@@ -1,0 +1,4 @@
+Pandas is a popular open-source data manipulation and analysis library for the Python programming language. It provides
+easy-to-use data structures, such as DataFrame and Series, which allow for efficient data manipulation and analysis.
+Pandas is commonly used for tasks such as data cleaning, transformation, exploration, and analysis. It's widely used in
+data science, machine learning, and other fields where data processing and analysis are essential.
