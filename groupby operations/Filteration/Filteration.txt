@@ -1,1 +1,0 @@
-Filtering data in pandas involves selecting rows from a DataFrame based on certain conditions. This can be achieved using various techniques, such as boolean indexing, the query method, or the filter method. Below are examples demonstrating different ways to filter data in a pandas DataFrame.
