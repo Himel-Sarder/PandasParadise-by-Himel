@@ -1,2 +1,0 @@
-A Pandas DataFrame is a two-dimensional, size-mutable, and heterogeneous tabular data structure with labeled axes (rows and columns).
-It is one of the primary data structures provided by the Pandas library, which is widely used for data manipulation and analysis in Python.
