@@ -1,0 +1,1 @@
+Handling categorical data in pandas involves several operations such as identifying, converting, and analyzing categorical variables. Categorical data can be useful in various data analysis and machine learning tasks. Below are some examples of how to work with categorical data in pandas.
