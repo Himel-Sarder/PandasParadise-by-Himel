@@ -1,5 +1,5 @@
 # PandasParadise-by-Himel
-![Fitness Channel Youtube Thumbnail (1)](https://github.com/Himel-Sarder/PandasParadise-by-Himel/assets/143216886/a409eb3d-2b21-4115-ab37-041844e82df9)
+![Fitness Channel Youtube Thumbnail (2)](https://github.com/Himel-Sarder/PandasParadise-by-Himel/assets/143216886/20b01bda-9bb3-4aed-b6fb-08b8dfabde4b)
 
 Welcome to PandasParadise, a comprehensive toolkit for data analysis and manipulation using the powerful `pandas` library. Created by Himel, this project aims to simplify and enhance your data processing workflows.
 
