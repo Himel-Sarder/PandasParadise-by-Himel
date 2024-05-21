@@ -1,0 +1,4 @@
+
+Expanding window functions in pandas involve applying an aggregation function cumulatively over all preceding values in a series or dataframe. This means that the window size increases with each new observation.
+Unlike rolling window functions, where the window size remains fixed, expanding window functions consider all data points from the beginning up to the current observation.
+
