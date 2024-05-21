@@ -56,7 +56,7 @@ visualizer.plot_boxplot(grouped_df, column='value')
 ```
 
 For more detailed usage and examples, please refer to the [documentation](https://pandas.pydata.org/).
-## More on Pandas    
+## More on Pandas✅ 
 [Click Here..](https://www.datacamp.com/tutorial/pandas)   
 
 ## Folder Descriptions
