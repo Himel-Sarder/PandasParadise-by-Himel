@@ -1,0 +1,5 @@
+Print most expensive car’s company name and price.
+
+Expected Output:
+company price
+35 mercedes-benz 45400.0

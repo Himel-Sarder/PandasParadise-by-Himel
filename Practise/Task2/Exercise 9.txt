@@ -1,0 +1,17 @@
+Concatenate two data frames using the following conditions
+
+Create two data frames using the following two dictionaries.
+
+GermanCars = {'Company': ['Ford', 'Mercedes', 'BMV', 'Audi'], 'Price': [23845, 171995, 135925 , 71400]}
+japaneseCars = {'Company': ['Toyota', 'Honda', 'Nissan', 'Mitsubishi '], 'Price': [29995, 23600, 61500 , 58900]}
+
+Expected Output
+               Company   Price
+Germany 0         Ford   23845
+        1     Mercedes  171995
+        2          BMV  135925
+        3         Audi   71400
+Japan   0       Toyota   29995
+        1        Honda   23600
+        2       Nissan   61500
+        3  Mitsubishi    58900

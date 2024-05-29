@@ -1,0 +1,20 @@
+Count total cars per company
+
+Expected Output
+
+toyota           7
+bmw              6
+mazda            5
+nissan           5
+audi             4
+mercedes-benz    4
+mitsubishi       4
+volkswagen       4
+alfa-romero      3
+chevrolet        3
+honda            3
+isuzu            3
+jaguar           3
+porsche          3
+dodge            2
+volvo            2

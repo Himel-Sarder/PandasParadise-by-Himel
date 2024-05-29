@@ -1,0 +1,22 @@
+Find each company’s Highest price car
+
+Expected Output :
+
+                     company    price
+company
+alfa-romero      alfa-romero  16500.0
+audi                    audi  18920.0
+bmw                      bmw  41315.0
+chevrolet          chevrolet   6575.0
+dodge                  dodge   6377.0
+honda                  honda  12945.0
+isuzu                  isuzu   6785.0
+jaguar                jaguar  36000.0
+mazda                  mazda  18344.0
+mercedes-benz  mercedes-benz  45400.0
+mitsubishi        mitsubishi   8189.0
+nissan                nissan  13499.0
+porsche              porsche  37028.0
+toyota                toyota  15750.0
+volkswagen        volkswagen   9995.0
+volvo                  volvo  13415.0

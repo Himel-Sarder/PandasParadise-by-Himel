@@ -1,0 +1,11 @@
+Create two data frames using the following two Dicts, Merge two data frames, and append the second data frame as a new column to the first data frame.
+
+Car_Price = {'Company': ['Toyota', 'Honda', 'BMV', 'Audi'], 'Price': [23845, 17995, 135925 , 71400]}
+car_Horsepower = {'Company': ['Toyota', 'Honda', 'BMV', 'Audi'], 'horsepower': [141, 80, 182 , 160]}
+
+Expected Output
+  Company   Price  horsepower
+0  Toyota   23845         141
+1   Honda   17995          80
+2     BMV  135925         182
+3    Audi   71400         160

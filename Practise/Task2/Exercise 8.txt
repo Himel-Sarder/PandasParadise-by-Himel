@@ -1,0 +1,11 @@
+Sort all cars by Price column
+
+Expected Output
+    index        company   body-style  ...  horsepower  average-mileage    price
+35     47  mercedes-benz      hardtop  ...         184               14  45400.0
+11     14            bmw        sedan  ...         182               16  41315.0
+34     46  mercedes-benz        sedan  ...         184               14  40960.0
+46     62        porsche  convertible  ...         207               17  37028.0
+12     15            bmw        sedan  ...         182               15  36880.0
+
+[5 rows x 10 columns]
